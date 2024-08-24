@@ -20,6 +20,7 @@
 
 ## Features
 
+![App Screenshot](https://i.ibb.co/xYZZH6m/ETFV21724522734.jpg)
+
 - Create, read, update, and delete accordions.
 - Nested accordions with infinite nesting.
-
